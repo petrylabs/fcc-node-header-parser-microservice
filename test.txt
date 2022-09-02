@@ -1,0 +1,42 @@
+Request URL: https://request-header-parser-microservice.freecodecamp.rocks/api/whoami
+Request Method: GET
+Status Code: 200 
+Remote Address: 172.67.171.152:443
+Referrer Policy: strict-origin-when-cross-origin
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+cf-cache-status: DYNAMIC
+cf-ray: 744652d09c5aa4b0-GRU
+content-encoding: br
+content-security-policy: default-src 'self' http: https: data: blob: 'unsafe-inline' 'unsafe-eval';
+content-type: application/json; charset=utf-8
+date: Fri, 02 Sep 2022 12:42:04 GMT
+etag: W/"fe-ncbIcLCpJC/1Fc9qSRzJ70GhDRs"
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+referrer-policy: no-referrer-when-downgrade
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6W2mJlUV6%2Fl%2BP%2BJy6GhFf3Q7Jx7HcSG0fveu6%2BDmVN7%2BSXDPuRT1IEQxbQJbJQcdsaazEEp4RakPug8wRV2RnNUjk7VzRx5y4C98zH6hnud5pGrJ4D906m%2BKqyMlb61rrmV4T9H%2B%2BWBWQIwNMPDIIB0NwasJVP0I%2FFFR5TwYCEM%2F5rDwxJh8xw%3D%3D"}],"group":"cf-nel","max_age":604800}
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-powered-by: Express
+x-xss-protection: 1; mode=block
+:authority: request-header-parser-microservice.freecodecamp.rocks
+:method: GET
+:path: /api/whoami
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9,fr;q=0.8,pt;q=0.7,es;q=0.6,de;q=0.5,pt-BR;q=0.4,fr-CA;q=0.3,es-419;q=0.2
+cache-control: no-cache
+pragma: no-cache
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: none
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36

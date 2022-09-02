@@ -1,0 +1,31 @@
+Request URL: https://nodejsheaderparser.petrylabs.repl.co/api/whoami
+Request Method: GET
+Status Code: 200 
+Remote Address: 34.149.204.188:443
+Referrer Policy: strict-origin-when-cross-origin
+content-length: 254
+content-type: application/json; charset=utf-8
+date: Fri, 02 Sep 2022 12:42:06 GMT
+etag: W/"fe-ncbIcLCpJC/1Fc9qSRzJ70GhDRs"
+expect-ct: max-age=2592000, report-uri="https://sentry.repl.it/api/10/security/?sentry_key=615192fd532445bfbbbe966cd7131791"
+replit-cluster: global
+strict-transport-security: max-age=7100124; includeSubDomains
+x-powered-by: Express
+:authority: nodejsheaderparser.petrylabs.repl.co
+:method: GET
+:path: /api/whoami
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9,fr;q=0.8,pt;q=0.7,es;q=0.6,de;q=0.5,pt-BR;q=0.4,fr-CA;q=0.3,es-419;q=0.2
+cache-control: no-cache
+pragma: no-cache
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: none
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
